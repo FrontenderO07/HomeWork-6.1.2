@@ -2,7 +2,7 @@
   "name": "react-the-complete-guide",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/FrontenderO07/Hmw-6.1",
+  "homepage": "https://FrontenderO07.github.io/Hmw-6.1",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
