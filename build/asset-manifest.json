@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FrontenderO07/Hmw-6.1/static/css/main.250573b7.css",
-    "main.js": "/FrontenderO07/Hmw-6.1/static/js/main.dfe1dcce.js",
-    "index.html": "/FrontenderO07/Hmw-6.1/index.html",
-    "main.250573b7.css.map": "/FrontenderO07/Hmw-6.1/static/css/main.250573b7.css.map",
-    "main.dfe1dcce.js.map": "/FrontenderO07/Hmw-6.1/static/js/main.dfe1dcce.js.map"
+    "main.css": "/Hmw-6.1/static/css/main.250573b7.css",
+    "main.js": "/Hmw-6.1/static/js/main.79ff771e.js",
+    "index.html": "/Hmw-6.1/index.html",
+    "main.250573b7.css.map": "/Hmw-6.1/static/css/main.250573b7.css.map",
+    "main.79ff771e.js.map": "/Hmw-6.1/static/js/main.79ff771e.js.map"
   },
   "entrypoints": [
     "static/css/main.250573b7.css",
-    "static/js/main.dfe1dcce.js"
+    "static/js/main.79ff771e.js"
   ]
 }
